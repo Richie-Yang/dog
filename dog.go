@@ -2,6 +2,6 @@ package dog
 
 import "strings"
 
-func WhenGrowUp(s string) string {
-	return "when grow up " + strings.ToUpper(s)
+func WhenGrownUp(s string) string {
+	return "when grown up " + strings.ToUpper(s)
 }
